@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @venardv
 - 👀 I’m interested in all types of engineering
-- 🌱 I’m currently learning Javascript, C++, Python
-- 💞️ I’m looking to collaborate on useful products
+- 🌱 I’m currently learning C++, C#, Javascript, Python, Unity
+- 💞️ I’m looking to collaborate on useful products and create fun games
 - 📫 Reach me through venardv@hotmail.com
 
 <!---
